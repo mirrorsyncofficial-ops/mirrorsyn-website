@@ -1,0 +1,1 @@
+# Mirrorsync Website\nFrontend for DeFi copy-trading. See main docs: [https://github.com/mirrorsyncofficial-ops/mirrorsync.co/blob/main/docs/whitepaper.md](https://github.com/mirrorsyncofficial-ops/mirrorsync.co/blob/main/docs/whitepaper.md)
